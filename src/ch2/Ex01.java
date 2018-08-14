@@ -1,4 +1,5 @@
 package ch2;
+
 class Ex02
 {
 	public static void main(String[] args)
